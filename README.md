@@ -1,6 +1,7 @@
 ## Hi, I'm Dory!
-- 🚀 Dev Degree Intern at Shopify
-- 🏫 CS student at Carleton University
+I'm a :
+- 🚀 Dev Degree Intern @ Shopify
+- 🏫 CS student @ Carleton University
 
 <!--
 **doryzx/doryzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
