@@ -8,8 +8,8 @@
 -->
 
 <p align="center">
-  <img height="40%" width="auto" src="https://github-readme-stats-eight-gamma-35.vercel.app/api?username=doryzx&theme=merko&show_icons=true&count_private=true&hide=stars&show=prs_merged">
-  <img height="40%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=doryzx&theme=merko">
+  <img height="40%" width="auto" src="https://github-readme-stats-eight-gamma-35.vercel.app/api?username=doryzx&theme=shadow_green&show_icons=true&count_private=true&hide=stars&show=prs_merged&hide_border=true">
+  <img height="40%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=doryzx&theme=shadow_green&hide_border=true">
 </p>
 
 <!--
