@@ -2,7 +2,7 @@
 - I'm a **Dev Degree Intern @ Shopify**, working part-time as a dev-intern for the duration of my degree. I am currently working as a **backend developer** for my first placement.
 - I am currently a 2nd year **CS student** at Carleton University
 - I love learning, whether it's about something techy or not, and exploring how tech impacts different aspects of my life (the arts, activism, etc.) in and the world
-
+## 
 <!--
 ![Dory's GitHub stats](https://github-readme-stats-eight-gamma-35.vercel.app/api?username=doryzx&theme=merko&show_icons=true&count_private=true&hide=stars&show=prs_merged)
 ![Dory's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=doryzx&theme=merko)
