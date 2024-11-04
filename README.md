@@ -1,6 +1,6 @@
 ## Hi, I'm Dory!
 - I'm a **Dev Degree Intern @ Shopify**, working part-time as a dev-intern for the duration of my degree. I am currently working as a **backend developer** for my first placement.
-- I am currently a 2nd year **CS student** at Carleton University
+- I am currently a 2nd year **Computer Science student** at Carleton University
 - I love learning, whether it's about something techy or not, and exploring how tech impacts different aspects of my life (the arts, activism, etc.) and the world
 ## 
 <!--
