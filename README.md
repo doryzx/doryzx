@@ -1,7 +1,7 @@
 ## Hi, I'm Dory!
-- I'm a **Dev Degree Intern @ Shopify**, working part-time as a dev-intern for the duration of my degree. I am currently working as a **software/security developer** for my second placement.
+- I'm a **Dev Degree Intern @ Shopify**, part of the Dev Degree Program, an innovative work-integrated education program. I am currently working as a **security developer** for my third placement.
 - I am currently a 3rd year **Computer Science student** at Carleton University
-- I love learning, whether it's about something techy or not, and exploring how tech impacts different aspects of my life (the arts, activism, etc.) and the world
+- I love learning, whether or not it's technological, and exploring how tech impacts different aspects of my life (the arts, activism, etc.) and the world
 ## 
 <!--
 ![Dory's GitHub stats](https://github-readme-stats-eight-gamma-35.vercel.app/api?username=doryzx&theme=merko&show_icons=true&count_private=true&hide=stars&show=prs_merged)
